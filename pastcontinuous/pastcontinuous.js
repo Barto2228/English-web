@@ -1,0 +1,1 @@
+alert(("Cześć życzymy przyjemnej nauki:)"))

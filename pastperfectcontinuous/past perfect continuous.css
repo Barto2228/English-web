@@ -1,0 +1,39 @@
+* {
+    background-color: #ced6e0;
+    font-family: sans-serif;
+}
+
+h1 {
+    margin-left: 600px;
+}
+
+li {
+        font-family: sans-serif;
+}
+
+.box-1 {
+    border-style: solid;
+    border-color: #00cec9;
+    border-radius: 4px;
+}
+
+.box-2 {
+     position: absolute;
+    top: 50px;
+    left: 1000px;
+    border-style: solid;
+    border-color: #00cec9;
+    border-radius: 4px;
+}
+
+.box-3 {
+    border-style: solid;
+    border-color: #00cec9;
+    border-radius: 4px;
+}
+
+.box-4 {
+    border-style: solid;
+    border-color: #00cec9;
+    border-radius: 4px;
+}
